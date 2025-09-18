@@ -1,3 +1,4 @@
+ 
 #include<stdio.h>
 int main() {
     float balance = 500;
@@ -47,4 +48,5 @@ int main() {
  }
 
     return 0;
+ 
 }

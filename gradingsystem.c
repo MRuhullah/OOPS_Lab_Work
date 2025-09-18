@@ -1,3 +1,4 @@
+ 
 #include<stdio.h>
 int main(){
     int SUB1,SUB2,SUB3,SUB4,SUB5,Scored_marks;
@@ -63,4 +64,5 @@ int main(){
     }
 
     return 0;
+ 
 }

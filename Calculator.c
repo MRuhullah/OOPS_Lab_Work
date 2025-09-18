@@ -1,3 +1,4 @@
+ 
 #include<stdio.h>
 #include<math.h>
 int main(){
@@ -29,4 +30,5 @@ int main(){
                 printf("You entered invalid operator\n");
               
     return 0;
+ 
 }
