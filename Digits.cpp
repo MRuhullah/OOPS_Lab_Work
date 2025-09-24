@@ -9,7 +9,7 @@ int main()
     cout << "Enter an integer: ";
     cin >> num;
 
-    // Handle negative numbers
+    
     if (num < 0)
     {
         num = -num;
