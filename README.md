@@ -1,4 +1,4 @@
- # 🎓 # OOPS_Lab_Work
+ # 🎓  OOPS_Lab_Work
 
 This repository contains lab assignments and practical exercises focused on Object-Oriented Programming Systems (OOPS). While a few initial programs were written in C, the repository now exclusively features C++ code for all new additions.
 
