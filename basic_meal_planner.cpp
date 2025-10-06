@@ -12,7 +12,7 @@ int main()
 
     do
     {
-        cout << "\n=== Simple Meal Planner ===\n";
+        cout << "Simple Meal Planner\n";
         cout << "1. Add Meal\n";
         cout << "2. View Meals\n";
         cout << "3. Exit\n";
