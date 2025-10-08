@@ -16,7 +16,7 @@ void display(int i)
     cout << "Title: " << titles[i] << endl;
     cout << "Author: " << authors[i] << endl;
     cout << "Year: " << years[i] << endl;
-    cout << "----------------------\n";
+     
 }
 
 void add()
@@ -105,7 +105,7 @@ int main()
             search();
             break;
         case 4:
-            cout << "Goodbye!\n";
+            cout << "Thank you for veiwing\n";
             break;
         default:
             cout << "Invalid choice.\n";
