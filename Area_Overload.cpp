@@ -1,4 +1,4 @@
-#include <iostream>
+ #include <iostream>
 using namespace std;
 
 const float PI = 3.14;
@@ -16,7 +16,8 @@ double area(double base, double height) {
 }
 
 int main() {
-    float radius, length, breadth, base, height;
+    float radius, base, height;
+    int length, breadth;
 
     cout << "Enter radius: ";
     cin >> radius;
